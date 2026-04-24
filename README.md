@@ -12,7 +12,7 @@ A lightweight, single-file dashboard for visualizing open source project metrics
 
 ## Live Demo
 
-https://hnwyllmm.github.io/opendigger-panel/
+https://hnwyllmm.github.io/opendigger-panel/opendigger-dashboard.html
 
 ## Usage
 
